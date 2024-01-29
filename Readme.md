@@ -23,8 +23,7 @@ This Enhanced Port Scanner is a powerful and versatile tool designed for securit
 ## Disclaimer
 This tool is intended for educational and legitimate security analysis purposes only. Users must ensure they have proper authorization before scanning any network or system. Unauthorized scanning and network probing may be illegal and unethical in many countries and contexts.
 
-## License
-[Appropriate License, e.g., MIT, GPL]
+
 
 ## Contributing
 Contributions to the project are welcome. Please follow the standard fork-and-pull request workflow.
