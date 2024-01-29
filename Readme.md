@@ -1,4 +1,4 @@
-# Enhanced Port Scanner
+# Simple Port Scanner
 
 ## Description
 This Enhanced Port Scanner is a powerful and versatile tool designed for security engineers and network administrators. It allows for comprehensive scanning of networked systems to identify open ports and potential vulnerabilities. This tool now includes features like parameterized scanning, multi-threading for faster execution, and advanced scanning techniques.
